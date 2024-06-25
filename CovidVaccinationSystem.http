@@ -1,0 +1,6 @@
+@CovidVaccinationSystem_HostAddress = http://localhost:5215
+
+GET {{CovidVaccinationSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
