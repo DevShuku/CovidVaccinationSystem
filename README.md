@@ -1,5 +1,5 @@
 # CovidVaccinationSystem Solution
-Source code is placed at GitHub https://github.com/DevShuku/STXAssignment
+Source code is placed at GitHub https://github.com/DevShuku/CovidVaccinationSystem
 
 # Requirements
 It is a source code for designing and implementing a microservice architecture for a COVID vaccination and patient details system 
@@ -30,8 +30,9 @@ On pre installed **Visual Studio 2022** (It is the latest as of June,2024). Now,
    ```
      git clone 
    ```
+
 2. Go to the directory where you have cloned this project, open the directory `CovidVaccinationSystem`. You will find a file with name `CovidVaccinationSystem.sln`. Double click on this file and this project will be opened in Visual Studio.
-## Since there is no database connection we can skip this part else the below is a vital step  
+
 3.  open `appsettings.json` file and update connection string in your local and run on the localhost after configuring the MySQL datacontext.
  
    ```
