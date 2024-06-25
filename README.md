@@ -1,5 +1,5 @@
 # CovidVaccinationSystem Solution
-Source code is placed at GitHub https://github.com/DevShuku/STXAssignment
+Source code is placed at GitHub [https://github.com/DevShuku/STXAssignment](https://github.com/DevShuku/CovidVaccinationSystem)
 
 # Requirements
 It is a source code for designing and implementing a microservice architecture for a COVID vaccination and patient details system 
